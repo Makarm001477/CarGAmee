@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ambulance
+  - Tractor
+  - F1
+  - BoostItem
   layers:
   - Default
   - TransparentFX
